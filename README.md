@@ -4,7 +4,7 @@ Sports!
 
 Description
 ----------------
-Sports! is a sports news feed that provides a quick and easy way of reading sports news on the go.
+Sports! is a sports news feed app that provides a quick and easy way of reading sports news on the go.
 
 Features
 ----------------
@@ -21,8 +21,6 @@ FOX Sports  			|
 NFL News			   |
 Sky Sports News    |
 The Sport Bible     |
-
-
 
 
 Issues/bugs
