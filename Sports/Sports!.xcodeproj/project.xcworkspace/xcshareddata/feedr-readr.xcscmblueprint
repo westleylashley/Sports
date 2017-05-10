@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0979D8773115CDE3635F85012907AF56FE666730",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "27515C9B2EF5D7EB3B4258C0B07F6A1203A606AC" : 9223372036854775807,
+    "0979D8773115CDE3635F85012907AF56FE666730" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BA45C4F1-D357-40F3-BBDC-EA3BF09C0E3D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "27515C9B2EF5D7EB3B4258C0B07F6A1203A606AC" : "",
+    "0979D8773115CDE3635F85012907AF56FE666730" : "Sports-News-Application\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "feedr-readr",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "feedr-readr\/feedr-readr.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/westleylashley\/Sports-News-Application.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0979D8773115CDE3635F85012907AF56FE666730"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/westleylashley\/playgrounds.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27515C9B2EF5D7EB3B4258C0B07F6A1203A606AC"
+    }
+  ]
+}
