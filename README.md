@@ -22,6 +22,9 @@ NFL News			   |
 Sky Sports News    |
 The Sport Bible     |
 
+Technologies
+----------------
+`Swift 3`, `Xcode`, `JSON`, `REST API`
 
 <!--Issues/bugs
 ----------------
