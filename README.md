@@ -29,8 +29,8 @@ Issues/bugs
 + Update constraints
 
 
-Future Updates
+<!--Future Updates
 ----------------
 + Move Picker View to the bottom of the screen
 + Add news titles to images
-+ Add more sports news sources
++ Add more sports news sources-->
