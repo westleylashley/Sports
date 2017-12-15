@@ -23,10 +23,10 @@ Sky Sports News    |
 The Sport Bible     |
 
 
-Issues/bugs
+<!--Issues/bugs
 ----------------
 + Full story button does not display correctly due to incorrect constraints
-+ Update constraints
++ Update constraints-->
 
 
 <!--Future Updates
