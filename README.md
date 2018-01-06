@@ -4,7 +4,7 @@
 
 Description
 ----------------
-Sports! is a sports news feed app that provides a quick and easy way of reading sports news on the go.
+Sports! is a news feed app that provides a quick and easy way of reading sports news on the go.
 
 Features
 ----------------
